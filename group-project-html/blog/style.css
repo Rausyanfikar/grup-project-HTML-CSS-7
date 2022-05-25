@@ -1,0 +1,80 @@
+*{
+	color: #19345E;
+}
+
+/*Nav Style*/
+ul li button{
+	width: 7rem;
+	font-family: Muli;
+	font-weight: bold;
+	letter-spacing: 0.1rem;
+}
+button{
+	background-color: #F47522;
+	border: none;
+	height: 2rem;
+	width: 10rem;
+	border-radius: 2rem;
+	font-size: 0.8rem;
+	color: #ffff;
+}
+
+/*Blog Style*/
+.blog h1{
+	font-family: Muli;
+	text-align: center;
+	margin: 2rem;
+	font-weight: bold;
+}
+.blog img{
+	width: 100%;
+	height: 20hv;
+}
+.blog .teks h1{
+	text-align: left;
+	margin-left: 0;
+	font-weight:bolder;
+}
+.teks{
+	margin:7rem 7rem;
+}
+.teks p{
+	font-family: poppins;
+	font-size: 15;
+}
+
+/*Footer Style*/
+
+footer{
+	background-color: #19345E;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 1.5rem;
+}
+footer .cp p{
+	color: #FFFFFF;
+	vertical-align: middle;
+}
+footer .sosmed img{
+	width: 1rem;
+}
+sup{
+	color: #F47522;
+	margin: 0 1rem 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,80 @@
+
+/*Nav Style*/
+ul li button{
+	width: 7rem;
+	font-family: Muli;
+	font-weight: bold;
+	letter-spacing: 0.1rem;
+}
+
+.contacts{
+	margin-top: 4rem;
+	display: inline-flex;
+	width: 100%;
+	color: #19345E;
+}
+.profil{
+	width: 20%;
+	height: 25rem;
+	margin-left: 2rem;
+	line-height: 3.0;
+}
+.profil h6{
+	text-decoration: none;
+	font-weight: normal;
+}
+.profil img{
+	width: 1rem;
+	height:1rem;
+	margin-left: 0.5rem;
+}
+
+.git{
+	font-family: Poppins;
+	margin-left: 9%;
+}
+.git h1{
+	font-family: Muli;
+	font-weight: bolder;
+	margin-bottom: 1.4rem;
+}
+.git h1 sup {
+	color: #F47522;
+	margin: 0 1rem 0;
+}
+
+
+button{
+	background-color: #F47522;
+	border: none;
+	height: 2rem;
+	width: 10rem;
+	border-radius: 2rem;
+	font-size: 0.8rem;
+	color: #ffff;
+}
+button img{
+	width: 1.5rem;
+	margin-right: 0.4rem;
+}
+
+footer{
+	background-color: #19345E;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 1.5rem;
+	margin-top: 15rem;
+}
+footer .cp p{
+	color: #FFFFFF;
+	vertical-align: middle;
+}
+footer .sosmed img{
+	width: 1rem;
+}
+
+
+
+
+

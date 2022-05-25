@@ -1,0 +1,49 @@
+body {
+	background-image: url("../assets/ornament_batik.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: 1rem 4.8rem;
+}
+.content h1{
+	text-align: center;
+	margin-top: 2rem;
+}
+.content .biodata img{
+	width: 15rem;
+	height: 18rem;
+	border: 10px solid #F47522;
+	opacity: 1;
+}
+.content .biodata p{
+	font-family: poppins,regular;
+	letter-spacing: 0;
+	margin-left: 3rem;
+	font-size: 1.5rem ;
+	color: #19345E;
+
+}
+.content h4{
+	margin-left: 20%;
+}
+.biodata {
+	display: flex;
+	margin-left: 20%;
+
+}
+span{
+	align-items: center;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
