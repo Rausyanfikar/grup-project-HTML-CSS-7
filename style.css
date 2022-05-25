@@ -1,0 +1,185 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-link {
+  color: #19345e;
+  display: flex;
+}
+
+.nav-link:hover {
+  color: #f47522 !important;
+  border-bottom: 2px solid rgb(242, 65, 46) !important;
+  display: flex;
+}
+
+/*  */
+
+/* HERO */
+
+.hero-desc h4 {
+  font-size: 2rem;
+  color: #19345e;
+}
+
+.hero-desc h1 {
+  font-size: 4rem;
+  color: #19345e;
+}
+
+.hero-desc span {
+  color: #f47522;
+}
+
+.hero-desc p {
+  color: #19345e;
+}
+
+.oren-button {
+  background-color: #f47522;
+}
+
+a .teams {
+  color: white;
+}
+
+/* AKHIR HERO */
+
+.icon-suport {
+  color: white;
+  background-color: #f47522;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+/* about */
+.judul h1::before {
+  color: #f47522;
+  content: '-';
+  font-size: 30px;
+}
+
+.judul h1::after {
+  color: #f47522;
+  content: '-';
+  font-size: 30px;
+}
+
+.happy {
+  background-image: linear-gradient(rgba(25, 5, 140, 0.3), rgba(26, 5, 140, 0.3)), url(/ASSETS\ FINAL\ PROJECT\ HTML-CSS/a.png);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw !important;
+  padding: 0 !important;
+}
+
+.happy h3 {
+  width: 596px;
+  display: flex;
+  text-align: start;
+}
+
+.happy p {
+  width: 776px;
+}
+
+.about-bebas {
+  width: 60%;
+  height: 100%;
+}
+/* akhir about */
+
+/*  blog */
+
+.blog-read a:hover {
+  color: #f47522;
+}
+
+/*  */
+
+/*  */
+
+.header-meet {
+  background-image: url(ASSETS\ FINAL\ PROJECT\ HTML-CSS/ornament_batik.png);
+  background-size: 200px;
+  background-repeat: no-repeat;
+}
+
+.box {
+  background-color: green;
+  position: relative;
+  width: 300px;
+  height: 300px;
+}
+
+.naik-box {
+  margin-top: 50px;
+}
+
+.box img {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  object-fit: cover;
+}
+
+.meet-color {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  border: #f47522 4px solid;
+  background-color: none;
+  top: 10px;
+  right: 10px;
+}
+
+.meet-blue {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  border: #19345e 4px solid;
+  background-color: none;
+  top: 10px;
+  right: 10px;
+}
+
+@media (max-width: 576px) {
+  .hero-img img {
+    width: 350px;
+    height: 350px;
+  }
+
+  .info-lur {
+    border: none !important;
+    margin-top: 30px;
+    border-radius: unset !important;
+  }
+
+  .happy p {
+    font-size: 20px;
+    width: 100%;
+  }
+  .hapus-garis {
+    border: none !important;
+  }
+}
+
+@media (max-width: 900px) {
+  .hero-img {
+    display: flex;
+    justify-content: center;
+  }
+
+  .info-lur {
+    border: none !important;
+    margin-top: 30px;
+    border-radius: unset !important;
+  }
+
+  .hapus-garis {
+    border: none !important;
+  }
+}
