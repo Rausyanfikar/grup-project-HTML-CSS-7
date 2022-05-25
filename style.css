@@ -146,6 +146,26 @@ a .teams {
   right: 10px;
 }
 
+/*  */
+/* header bout */
+.header-bout {
+  background-image: url(ASSETS\ FINAL\ PROJECT\ HTML-CSS/ornament_batik.png);
+  background-size: 200px;
+  background-repeat: no-repeat;
+  top: 0;
+}
+
+.garis {
+  border: 1px dashed #aaaaaa;
+}
+
+.header-akhir {
+  background-image: url(ASSETS\ FINAL\ PROJECT\ HTML-CSS/ornament_batik.png);
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-position: bottom right !important;
+}
+
 @media (max-width: 576px) {
   .hero-img img {
     width: 350px;
@@ -164,6 +184,33 @@ a .teams {
   }
   .hapus-garis {
     border: none !important;
+  }
+
+  /* about img halaman */
+  .poto {
+    width: 350px;
+    text-align: center;
+    padding-left: 60px;
+  }
+
+  .naik-box {
+    width: 200px;
+    height: 200px;
+  }
+
+  .meet-color {
+    width: 200px;
+    height: 200px;
+  }
+
+  .about-huruf h1 {
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+  }
+
+  .footer-respon {
+    justify-content: center !important;
   }
 }
 
