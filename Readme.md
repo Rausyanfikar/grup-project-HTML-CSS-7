@@ -1,7 +1,7 @@
 ### Deployment
 
 ```
-link Deployment
+https://group-project-html-7.netlify.app
 ```
 
 ## grup-project-HTML-CSS-7
