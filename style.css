@@ -1,3 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+@font-face {
+  font-family: 'Muli';
+  src: url(Muli.ttf);
+}
+
+.muli {
+  font-family: 'Muli', sans-serif;
+}
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+.poppins {
+  font-family: 'Poppins', sans-serif;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -16,11 +35,17 @@
 
 .btn-masok {
   border: 1px solid #f47522 !important;
+  background-color: #fff;
+}
+
+.btn-masok:hover > a {
+  color: #fff !important;
 }
 
 .btn-masok:hover {
   color: white !important;
   background-color: #f47522 !important;
+  border: 1px solid #f47522 !important;
 }
 
 /*  */
