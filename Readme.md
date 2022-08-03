@@ -10,7 +10,7 @@
 
 <img width="1280" alt="Screen Shot 2022-08-03 at 13 22 09" src="https://user-images.githubusercontent.com/105417100/182591254-1cfdc822-4997-4840-b7b6-5557bba20f97.png">
 
-![webpreview] (https://user-images.githubusercontent.com/105417100/182591254-1cfdc822-4997-4840-b7b6-5557bba20f97.png)
+![webpreview](https://user-images.githubusercontent.com/105417100/182591254-1cfdc822-4997-4840-b7b6-5557bba20f97.png)
 
 ### Langguage Use
 
